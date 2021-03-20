@@ -48,7 +48,7 @@ const App = () => {
       <Grid container spacing={3}>
         {/* question mark needed to show undefined if data is UNDEFINED */}
         {data?.map((item) => (
-          <Grid item key={item.id} xs={12} sm={4}>
+          <Grid item key={item.id} xs={12} sm={3}>
             <Item item={item} handleAddToCart={handleAddToCart} />
           </Grid>
         ))}
