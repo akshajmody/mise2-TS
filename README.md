@@ -1,3 +1,14 @@
 # MISE 2
 
-## TypeScript Refactor
+## Shopping cart DEMO
+
+---
+
+Primary Technologies Used:
+
+- React
+- TypeScript
+- React Query
+- Material UI
+- Styled Components
+- ParticleJS
